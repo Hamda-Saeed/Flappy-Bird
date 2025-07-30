@@ -44,6 +44,7 @@ In today’s world of high-level abstractions, it’s easy to forget what happen
 📁 [[project demo link here](https://drive.google.com/file/d/1JmFfoxeZdxUWMFyrOp3HfZibNzYdrp_4/view?usp=sharing)]
 
 ---
+![Flappy Bird Screenshot](flappybird.png)
 
 ## 🙌 Feedback?
 We’d love to hear your thoughts, suggestions, or see any similar projects you’ve worked on!
